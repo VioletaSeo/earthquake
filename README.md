@@ -1,5 +1,4 @@
 # Detection of Gain Problem
-Research concerning seismology and earthquake physics.
 
 Project 1: Detecting potential gain problems in seismic arrays installed in South Korea. The method developed by Park and Ishii(2019) is              applied to perform such detection.
 
