@@ -1,7 +1,7 @@
 # earthquake
 Research concerning seismology and earthquake physics.
 
-1. Detecting potential gain problems in seismic arrays installed in South Korea. The method developed by Park and Ishii(2019) is applied      to perform such detection.
+Project 1: Detecting potential gain problems in seismic arrays installed in South Korea. The method developed by Park and Ishii(2019) is              applied to perform such detection.
 
 1-1. First, the test is conducted using the teleseismic events recorded by Hi-net stations which are the datasets used by Park and              Ishii(2019) to demonstrate applicability of their method.
 
